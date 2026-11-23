@@ -5,7 +5,7 @@ Security Researcher — Bogor, West Java, Indonesia
 Focus: Web Security, Vulnerability Research
 
 ## Activity
-- 24 vulnerability reports submitted to CSIRT Indonesia
+- 25 vulnerability reports submitted to CSIRT Indonesia
 - Independent research, responsible disclosure
 
 ## Research Areas
@@ -13,9 +13,14 @@ Focus: Web Security, Vulnerability Research
 - Misconfiguration & sensitive data exposure
 - Authentication & access control
 
-## Tools
-- Burp Suite, Nmap, Nuclei
-- Manual testing, OSINT
+## Capabilities
+- Domain scanning & reconnaissance
+- SQL injection testing with SQLmap
+- Network scanning with Nmap
+- Subdomain takeover check
+- Directory brute forcing
+- JS secret finder
+- XSS testing
 
-## Contact
-- GitHub: github.com/ryzproject
+## Environment
+- Kali Linux

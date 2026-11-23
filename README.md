@@ -13,7 +13,7 @@ Focus: Web Security, Vulnerability Research
 - Misconfiguration & sensitive data exposure
 - Authentication & access control
 
-## Capabilities
+## Tools Used
 - Domain scanning & reconnaissance
 - SQL injection testing with SQLmap
 - Network scanning with Nmap

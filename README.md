@@ -6,6 +6,7 @@ Focus: Web Security, Vulnerability Research
 
 ## Activity
 - 25 vulnerability reports submitted to CSIRT Indonesia
+- 2 confirmed and fixed
 - Independent research, responsible disclosure
 
 ## Research Areas
@@ -24,3 +25,8 @@ Focus: Web Security, Vulnerability Research
 
 ## Environment
 - Kali Linux
+
+## Connect
+- Instagram: https://instagram.com/4ryaaapokee
+- TikTok: https://tiktok.com/@yhaaxzy
+- Email: aryaputra23112@gmail.com

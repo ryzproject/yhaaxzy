@@ -26,7 +26,7 @@ Focus: Web Security, Vulnerability Research
 ## Environment
 - Kali Linux
 
-## Connect
+## Contact
 - Instagram: https://instagram.com/4ryaaapokee
 - TikTok: https://tiktok.com/@yhaaxzy
 - Email: aryaputra23112@gmail.com
